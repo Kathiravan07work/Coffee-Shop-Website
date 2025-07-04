@@ -1,2 +1,3 @@
-# Coffee-Shop-Website
-☕ Create A Responsive Coffee Website in HTML CSS &amp; JavaScriptA good HTML, CSS, and JavaScript website for a coffee shop should have a clear, inviting homepage, sections for the menu, about us, and contact information, and possibly a gallery or testimonials section. The design should be responsive, visually appealing, and reflect the coffee shop.
+Coffee-Shop-Website
+A sleek and responsive coffee shop website built with pure HTML and CSS. Features a beautifully designed menu, about page, contact section, and a visually appealing layout. Fully responsive for a seamless browsing experience on all devices. ☕✨
+
