@@ -321,7 +321,7 @@ nav {
 
 .book {
   margin-block: 5rem;
-  background-image: url("assets/book.png");
+  background-image: url("book.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
